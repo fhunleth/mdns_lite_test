@@ -1,0 +1,2 @@
+defmodule MdnsLiteTest do
+end
